@@ -1,0 +1,1 @@
+document.write("In this session we are goining learn, 'How to debug javaScript?'.");
